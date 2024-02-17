@@ -1,6 +1,6 @@
 # Obsidian Random Title Plugin
 
-This Obsidian plugin automatically generates random titles for new notes and focuses the text area. Currently it generates the Note Titles as "New Note + {Unix timestamp}"
+This Obsidian plugin automatically generates random titles for new notes. Currently it generates the Note Titles as "New Note + {Unix timestamp}"
 
 ## Releasing new releases
 

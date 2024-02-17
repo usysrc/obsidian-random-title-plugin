@@ -34,7 +34,6 @@ export default class RandomTitlePlugin extends Plugin {
 		if (view) {
 			const editor = view.editor;
 			if (editor) {
-				editor.focus();
 				editor.setCursor({ line: 1, ch: 0 });
 			}
 		}
